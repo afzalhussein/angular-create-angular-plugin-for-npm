@@ -1,0 +1,1 @@
+# angular-create-angular-plugin-for-npm
